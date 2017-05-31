@@ -35,7 +35,7 @@ public class CS1530_EX3 {
             System.exit(3);
         }
     }
-    
+
     public static int Lazy(int n) {
         int x = (((n * n) + n + 2) / 2);
         if(n > 892589) {
@@ -44,7 +44,7 @@ public class CS1530_EX3 {
         else
             return x;
     }
-    
+
     public static int Tri(int n) {
         int sum = 0;
         if(n > 65535) {
