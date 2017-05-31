@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import package.schmeckle;
+import schmeckle.CS1530_EX3;
 
 /**
  *
